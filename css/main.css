@@ -1,0 +1,27 @@
+#forum_panel {
+	margin: 0;
+}
+
+.index-title{
+	margin: 10px 0 0 0;
+}
+
+footer{
+	background: #333;
+	height: 80px;
+	padding-top: 30px;
+}
+
+footer .row a{
+	float: right;
+	color: #666;	
+	line-height: 33px;
+}
+
+.logo{
+	float: left;
+	font-size: 2em;
+	color: #666;
+	font-weight: bold;
+	padding-right: 1.5rem	;
+}
